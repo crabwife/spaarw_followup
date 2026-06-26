@@ -1,0 +1,5 @@
+source,model_tag,n,exponential_scale
+Empirical,empirical,1984,3.9015444420525656
+Hurdle-AR(1)-GRW-S,hurdle_ar1_s,73868,3.905593498261964
+Hurdle-AR(1)-GRW-S-P,hurdle_ar1_s_p,79437,3.9228919855049584
+Hurdle-AR(3)-GRW-S-P,hurdle_ar3_s_p,81006,3.9195162304658875
