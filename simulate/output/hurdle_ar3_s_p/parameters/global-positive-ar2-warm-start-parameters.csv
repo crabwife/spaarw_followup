@@ -1,2 +1,0 @@
-model,n,intercept,beta_1,beta_2,sigma_resid,var_resid,spectral_radius,is_stationary,implied_stationary_mean_log,implied_stationary_var_log
-global,19004,0.48739447059288454,0.4158747385033175,0.31716803788928055,0.601857470628548,0.3622324149513935,0.8082755967705976,True,1.8257399594088772,0.6402307347793464

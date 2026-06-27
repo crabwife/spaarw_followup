@@ -1,10 +1,55 @@
-cat > .gitignore << 'EOF'
+# macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
 __pycache__/
 *.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
 .ipynb_checkpoints/
+
+# Virtual environments and local configuration
 .venv/
 venv/
+env/
 .env
+.env.*
+!.env.example
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Packaging and builds
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
 *.log
-EOF
+*.tmp
+*.temp
+*~
+
+# Anything whose file or directory name starts with deprecated_
+deprecated_*
+
+# Ignore all model input/output directories
+**/input/
+**/output/
+
+# Preserve the canonical imported data and plotting output
+!import/input/
+!import/input/**
+!plot/output/
+!plot/output/**

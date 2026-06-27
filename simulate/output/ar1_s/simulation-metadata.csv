@@ -1,2 +1,0 @@
-model,model_tag,n_trajectories,career_year_start,career_year_end,master_seed,model_seed,eps,trajectory_orientation,trajectory_file,wide_trajectory_csv,active_state_file,active_run_length_file,year_summary_file,transition_summary_file,trajectory_long_sample_file
-AR(1)-GRW-S,ar1_s,50000,0,20,63,10364501871564685049,0.49,rows=career years; columns=simulated scholars,trajectories.npy,,,,year-summary.csv,transition-summary.csv,trajectory-long-sample.csv
