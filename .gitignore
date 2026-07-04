@@ -43,7 +43,7 @@ dist/
 
 # Anything whose file or directory name starts with deprecated_
 deprecated_*    
-SE_Hurdle_S_Full.ipynb
+/self_exciting/src/SE_Hurdle_S_Full.ipynb
 
 # Ignore all model input/output directories
 **/input/
