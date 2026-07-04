@@ -1,0 +1,2 @@
+positive_bins,total_states,two_step_windows,observed_mean_weighted_tv,markov_null_mean_weighted_tv,markov_null_95_upper,permutation_p,reject_first_order_ck
+4,5,19,0.1280457358015205,0.05722077495476362,0.061549334504955276,0.000999000999000999,True

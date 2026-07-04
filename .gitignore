@@ -1,9 +1,7 @@
-# macOS
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# Python
 __pycache__/
 *.py[cod]
 *.so
@@ -13,10 +11,8 @@ __pycache__/
 .coverage
 htmlcov/
 
-# Jupyter
 .ipynb_checkpoints/
 
-# Virtual environments and local configuration
 .venv/
 venv/
 env/
@@ -24,24 +20,20 @@ env/
 .env.*
 !.env.example
 
-# IDEs and editors
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# Packaging and builds
 build/
 dist/
 *.egg-info/
 
-# Logs and temporary files
 *.log
 *.tmp
 *.temp
 *~
 
-# Anything whose file or directory name starts with deprecated_
 deprecated_*    
 /self_exciting/src/SE_Hurdle_S_Full.ipynb
 
@@ -49,7 +41,9 @@ deprecated_*
 **/input/
 **/output/
 
-# Preserve the canonical imported data and plotting output
+!/self_exciting/output/
+!/self_exciting/output/**
+
 !import/input/
 !import/input/**
 !plot/output/
