@@ -36,6 +36,8 @@ dist/
 
 deprecated_*    
 /self_exciting/src/SE_Hurdle_S_Full.ipynb
+/documents/
+/ar_p_diminishing_returns/
 
 # Ignore all model input/output directories
 **/input/
