@@ -1,0 +1,1 @@
+band = 1.96 / np.sqrt(N - 1)
