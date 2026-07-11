@@ -1,0 +1,3 @@
+model,terminal_rank_persistence,terminal_ci_low,terminal_ci_high,rank_curve_rmse
+Empirical,0.20157088641859774,,,0.0
+Flexible Markov: q_t only,-0.00017728283202788977,-0.08888635789871989,0.10161147309642325,0.268590148298535

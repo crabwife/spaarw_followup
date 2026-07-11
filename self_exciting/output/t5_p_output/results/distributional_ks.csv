@@ -1,0 +1,10 @@
+diagnostic,model,ks_D,ks_p
+$\mathbf{A.}$ Pr(reached year of $q_{\max}$),SE-Hurdle-S,0.04997998153052838,0.11879416109838348
+$\mathbf{A.}$ Pr(reached year of $q_{\max}$),SE-Hurdle-T5,0.04640889440601755,0.1748340708598554
+$\mathbf{A.}$ Pr(reached year of $q_{\max}$),Hurdle-AR(5)-S-P,0.03032470389170897,0.6716009324468432
+$\mathbf{B.}$ Cumulative productivity by year 5,SE-Hurdle-S,0.033773434856175975,0.5358069186990476
+$\mathbf{B.}$ Cumulative productivity by year 5,SE-Hurdle-T5,0.038548730964467,0.36838375663264195
+$\mathbf{B.}$ Cumulative productivity by year 5,Hurdle-AR(5)-S-P,0.051260913705583756,0.10268493747316151
+$\mathbf{C.}$ CDF of zero years/career,SE-Hurdle-S,0.034017597292724196,0.5265049727751424
+$\mathbf{C.}$ CDF of zero years/career,SE-Hurdle-T5,0.039943485617597294,0.32633640619853005
+$\mathbf{C.}$ CDF of zero years/career,Hurdle-AR(5)-S-P,0.18242774957698815,1.0142232410646443e-16
